@@ -2,12 +2,12 @@
 title: Berlin
 date: 1407249580000
 km: 0
-css:
-  background-image: "url('/img/berlin.jpg')"
+backgroundImage: berlin.jpg
+backgroundCss:
   background-size: 500px 500px
+css:
   color: '#562e00'
   text-shadow: 0 0 5px rgba(255,255,255,.8)
-  background-attachment: fixed
 
 ---
 
