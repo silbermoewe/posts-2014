@@ -49,4 +49,4 @@ The Rest of the city is not as old, the major part burned down in a great fire e
 ![](IMG_2182)
 ![](IMG_2183)
 
-We pick up Caro from the airport and head to Sarti on Sithonia, a place we visited last year with Lisa and Bendix.
+We pick up Caro from the airport and head to Sarti on Sithonia, a peninsula we visited last year with Lisa and Bendix.
