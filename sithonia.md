@@ -44,7 +44,7 @@ Kolja and Timur had already been on this peculiar peninsula last year, they deci
 
 ![](IMG_2493)
 
-The place is amazing, white sand and crystalline water, while the village is not particularly authentic and very touristic - maybe even too touristic.
+The place is amazing, white sand and crystalline water, while the village is not particularly authentic and very touristic – maybe even too touristic.
 
 ![](IMG_2470)
 

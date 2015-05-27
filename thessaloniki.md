@@ -35,7 +35,7 @@ Am letzten Tag holen wir Caro vom Flughafen und fahren direkt nach Sarti auf Sit
 
 ---en---
 
-In Thessaloniki's old town our poor Silbermöwe has trouble climbing up the hills, taking turns or finding a parking spot. Ones, we even have to roll the hill down backwards because after we are forced to stop, we just can not start again. But our apartment is an old gorgeous house with terrace and vista over the old city.
+In Thessaloniki's old town our poor Silbermöwe has trouble climbing up the hills, taking turns or finding a parking spot. Once we even have to roll the hill down backwards because after we are forced to stop, we just can not start again. But our apartment is an old gorgeous house with terrace and vista over the old city.
 
 ![Silbemöwe on uneven grounds](IMG_2168)
 ![Kolja, Franzi and Basti on the terrace](IMG_2170)
