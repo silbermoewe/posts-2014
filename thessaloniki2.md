@@ -50,7 +50,7 @@ Den nächsten Morgen, von den Glocken der Kirche aufgeweckt, gehen wir zum Hafen
 After Lennart's arrival we want to go to eat in the city. After a difficult search for a parking spot we walk to the old city and find a very nice and not touristy-looking restaurant. Despite the initial mistrust of the bearded waiter…
 
 *Where do you come from?*  
-Germany?  
+Germany.  
 *Where in Germany?*  
 (All together) Haha!  
 *I am not laughing! (And looks at us very unfriendly)*  
