@@ -11,7 +11,7 @@ backgroundImage: thessaloniki2.jpg
 css:
   background-color: white
   color: black
-  text-shadow: 0 0 0 rgba(0, 0, 0, 0)
+  text-shadow: 0 0 10px white
 
 ---
 
