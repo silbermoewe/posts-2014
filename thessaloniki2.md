@@ -2,7 +2,7 @@
 title: Θεσσαλονίκη ΙΙ
 date: 1411294419000
 km: 3946
-fbImage: 001_Taverna
+fbImage: 02_Motorradfahrer
 author: "Caro. Pics: Lennart."
 guests:
   - Caro
