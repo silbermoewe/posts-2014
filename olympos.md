@@ -20,7 +20,7 @@ Am Abend kamen wir nach einer längeren Fahrt im vor dem mit 2918m doch recht m�
 ![](12_Panorama)
 ![](13_Platz)
 
-Da wir keinen andere Wahl hatten, griffen wir etwas tiefer in die Tasche und fuhren mit einem leicht gequält klingenden Motor über einen Pass auf den Parkplatz des Nationalparks, welcher den Mount Olympus umgibt. Wir fassten den Vorsatz am nächsten Morgen um 7 Uhr aufzustehen um frisch, fromm, fröhlich und frei den Berg zu erklimmen.
+Da wir keine andere Wahl hatten, griffen wir etwas tiefer in die Tasche und fuhren mit einem leicht gequält klingenden Motor über einen Pass auf den Parkplatz des Nationalparks, welcher den Mount Olympus umgibt. Wir fassten den Vorsatz am nächsten Morgen um 7 Uhr aufzustehen um frisch, fromm, fröhlich und frei den Berg zu erklimmen.
 
 ![](14_Timur_Wanderung)
 ![](15_Caro_Wanderung)
@@ -55,7 +55,7 @@ After a long trip we finally arrived in a village at the foot of the 2918m high 
 ![](11_Ziegen)
 ![](12_Panorama)
 
-Without having another choice we had do pay whatever she claimed and drove to the parking space inside the national park which surrounds Mt. Olympus. We declared to get up at 7am the next morning so we would have much time to hike.
+Without having another choice we had to pay whatever she asked for and drove to the parking space inside the national park which surrounds Mt. Olympus. We declared to get up at 7am the next morning so we would have much time to hike.
 
 ![](13_Platz)
 ![](14_Timur_Wanderung)
