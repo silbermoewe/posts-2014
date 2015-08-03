@@ -14,7 +14,7 @@ css:
 
 ---
 
-Nach der Anstrengung von Olymp fahren wir Richtung Pelion Halbinsel, die uns von jedem, der Griechenland bereist ist, empfohlen würde, entschieden wir in einem Campingplatz, der uns allen benötigten und nicht benötigten Komfort bieten soll, zu übernachten. Da wir eine unberührte und authentische Landschaft suchen, fahren wir südlich bis ans Ende der Halbinsel, bis wir unsere gestrebte Ziel finden.
+Nach der Anstrengung von Olympos fahren wir in Richtung der Halbinsel Pelion, die uns von jedem, der Griechenland bereist hat, empfohlen würde. Wir entschieden uns für einen Campingplatz, der uns allen benötigten und nicht benötigten Komfort bietet, zu übernachten. Da wir eine unberührte und authentische Landschaft suchen, fahren wir südlich bis ans Ende der Halbinsel, bis wir finden, was wir suchen.
 
 ![](36_Hafen)
 ![](1_IMG_7810)
@@ -26,8 +26,8 @@ Nach der Anstrengung von Olymp fahren wir Richtung Pelion Halbinsel, die uns von
 ![](40_Boote)
 ![](30_Stadt_Boot)
 
-Agia Kiriaki ist ein klein Fischerdorf mit weißer Häusern und hellblauen Türen und Fenstern. Da wir am späten Nachmittag angekommen sind, gehen wir als ersten Mal Essen in einem von den zwei Restaurants in Dorf. 
-Hier sind die Katzen nicht besonders freundlich, aber die Heimbewohner absolut. Nach einer Beobachtung schätzen wir, dass die meiste Frauen fischen (ihre Bewegungen sehen am Sonnenuntergang sehr cool aus), und die Männer sitzen am Bar oder Restaurant, reden, und, ab und zu, beten.
+Agia Kiriaki ist ein kleines Fischerdorf mit weißen Häusern und hellblauen Türen und Fenstern. Da wir am späten Nachmittag angekommen sind, gehen wir als erstes Essen in einem von den zwei Restaurants im Dorf. 
+Hier sind die Katzen nicht besonders freundlich, aber die Heimbewohner absolut. Nach einiger Beobachtung schätzen wir, dass die meisten Frauen fischen (ihre Bewegungen sehen im Sonnenuntergang sehr cool aus), und die Männer sitzen in der Bar oder im Restaurant, reden, und, ab und zu, beten.
 
 ![](IMG_7831)
 ![](IMG_7844)
@@ -36,7 +36,7 @@ Hier sind die Katzen nicht besonders freundlich, aber die Heimbewohner absolut. 
 ![](IMG_7947)
 ![](31_Steine_Horizont)
 
-Die nächsten Tagen genießen wir Strandleben, wir schwimmen, snorcheln, essen am Strand. Leider nach drei Nächte müssen wir schon weiterfahren, da Lennart von Athen nach Bremen zurückfliegt und wir einen Tag in der Stadt alle zusammen verbringen möchten. git
+Die nächsten Tagen genießen wir Strandleben, wir schwimmen, schnorcheln, essen am Strand. Leider müssen wir schon nach drei Nächten weiterfahren, da Lennart von Athen nach Bremen zurückfliegt und wir alle zusammen einen Tag in der Stadt verbringen möchten.
 
 ![](IMG_7888)
 ![](42_Timur)
