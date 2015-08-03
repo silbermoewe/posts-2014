@@ -9,7 +9,7 @@ guests:
   - Caro
   - Lennart
 css:
-  color: "white"
+  color: "#D8CFCF"
   text-shadow: 0 0 3px rgba(0,0,0, 1)
 
 ---
