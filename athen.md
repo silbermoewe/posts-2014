@@ -8,10 +8,11 @@ guests:
   - Caro
   - Lennart
 css:
-  background-color: "#"
-  color: "#"
-  text-shadow: 0 0 0 rgba(0, 0, 0, 0)
-
+  color: "#FFF6F1"
+  text-shadow: "0 0 4px black"
+backgroundCss:
+  background-position: center top
+ 
 ---
 
 ![](1_IMG_7985)

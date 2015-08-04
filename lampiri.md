@@ -7,9 +7,8 @@ backgroundImage: lampiri.jpg
 guests:
   - Caro
 css:
-  background-color: "#"
-  color: "#"
-  text-shadow: 0 0 0 rgba(0, 0, 0, 0)
+  color: "#E5E9EF"
+  text-shadow: 0 0 5px rgba(0, 0, 0, 1)
 
 ---
 
