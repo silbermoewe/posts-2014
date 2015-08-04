@@ -7,8 +7,8 @@ backgroundImage: corinth.jpg
 guests:
   - Caro
 css:
-  color: "black"
-  text-shadow: 0 0 10px rgba(255, 255, 255, 1)
+  color: white
+  text-shadow: 0 0 10px rgba(0, 0, 0, 1)
 
 ---
 
