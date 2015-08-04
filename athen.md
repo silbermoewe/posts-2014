@@ -17,40 +17,6 @@ backgroundCss:
 
 ![](51_Athen)
 
-Athens is huge and rough. We take a flat where we all fit in comfortably. It is just some metro stations from the center and stuffed with holy things that keep us save.
-
-![](IMG_8046)
-![](IMG_8041)
-
-We stroll through the city on the search for food and end up in [Avocado](http://www.avocadoathens.com/), vegetarian food with esoteric sayings on the wall. We drink surprisingly expensive beer in a very narrow street. Kolja found some concert because he follows some Athenian [bicycle shop](http://48x17.com/en/): [Ras G in the Romantso](http://www.romantso.gr/show_event.php?id=257). We arrive way to early, the ticket counter is not open yet so we get in for free and invest the savings in beer and gin.
-
-![](48_Konzert)
-
-Saturday evening we explore the touristic highlights, Acropolis etc. but we have difficulties finding the *cool Athens*. In the evening we visit the bicycle store that Kolja follows on Twitter.
-
-![](46_Priester)
-![](1_IMG_7985)
-![](50_Akropolis_a)
-![](52_Museum)
-
-Sunday morning Lennart flies home. 
-
-Finally, at our last day in Athens we do find the *cool Athens*: Εξάρχεια (Exarcheia). We try to drink coffee but just get liqueur. In our second attempt we get served Coffee and in the evening we find a really nice Taverna: αβέρνα Εφήμερον. The old owners of the place have only a handwritten menu in Greek and do not speak any English but the other customers help us with the communication and we end up with really good food on our table.
-
-![](IMG_8021)
-![](IMG_8023)
-![](IMG_8024)
-![](IMG_8040)
-
-Am nächsten Morgen ziehen wir weiter über Korinth gen Patras, zur Fähre nach Italien.
-
-![](45_Autofahrt)
-
----en---
-
-
-![](51_Athen)
-
 Athen ist groß und rau. Wir nehmen uns eine Wohnung, in der wir alle bequem Platz finden, ein paar Stationen mit der Ubahn vom Zentrum entfernt und mit genügend Heiligtümern ausgestattet, dass wir sicher schlafen können. 
 
 ![](IMG_8046)
@@ -77,5 +43,38 @@ Nun endlich, an unserem Abreisetag, finden wir das coole Athen: Εξάρχεια
 ![](IMG_8040)
 
 Am nächsten Morgen ziehen wir weiter über Korinth gen Patras, zur Fähre nach Italien.
+
+![](45_Autofahrt)
+
+---en---
+
+![](51_Athen)
+
+Athens is huge and rough. We take a flat where we all fit in comfortably. It is just some metro stations from the center and stuffed with holy things that keep us save.
+
+![](IMG_8046)
+![](IMG_8041)
+
+We stroll through the city on the search for food and end up in [Avocado](http://www.avocadoathens.com/), vegetarian food with esoteric sayings on the wall. We drink surprisingly expensive beer in a very narrow street. Kolja found some concert because he follows some Athenian [bicycle shop](http://48x17.com/en/): [Ras G in the Romantso](http://www.romantso.gr/show_event.php?id=257). We arrive way to early, the ticket counter is not open yet so we get in for free and invest the savings in beer and gin.
+
+![](48_Konzert)
+
+Saturday evening we explore the touristic highlights, Acropolis etc. but we have difficulties finding the *cool Athens*. In the evening we visit the bicycle store that Kolja follows on Twitter.
+
+![](46_Priester)
+![](1_IMG_7985)
+![](50_Akropolis_a)
+![](52_Museum)
+
+Sunday morning Lennart flies home. 
+
+Finally, at our last day in Athens we do find the *cool Athens*: Εξάρχεια (Exarcheia). We try to drink coffee but just get liqueur. In our second attempt we get served Coffee and in the evening we find a really nice Taverna: αβέρνα Εφήμερον. The old owners of the place have only a handwritten menu in Greek and do not speak any English but the other customers help us with the communication and we end up with really good food on our table.
+
+![](IMG_8021)
+![](IMG_8023)
+![](IMG_8024)
+![](IMG_8040)
+
+Next morning we continue via Corinth to Patras to take the ferry to Italy.
 
 ![](45_Autofahrt)
