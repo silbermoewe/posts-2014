@@ -53,6 +53,7 @@ Am nächsten Morgen ziehen wir weiter über Korinth gen Patras, zur Fähre nach 
 Athens is huge and rough. We take a flat where we all fit in comfortably. It is just some metro stations from the center and stuffed with holy things that keep us save.
 
 ![](IMG_8046)
+![](IMG_8043)
 ![](IMG_8041)
 
 We stroll through the city on the search for food and end up in [Avocado](http://www.avocadoathens.com/), vegetarian food with esoteric sayings on the wall. We drink surprisingly expensive beer in a very narrow street. Kolja found some concert because he follows some Athenian [bicycle shop](http://48x17.com/en/): [Ras G in the Romantso](http://www.romantso.gr/show_event.php?id=257). We arrive way to early, the ticket counter is not open yet so we get in for free and invest the savings in beer and gin.
