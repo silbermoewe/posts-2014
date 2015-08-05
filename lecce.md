@@ -1,7 +1,7 @@
 ---
 title: Lecce
 date: 1412412533000
-km:
+km: 4974
 fbImage: IMG_8219
 backgroundImage: lecce.jpg
 guests:
@@ -9,6 +9,7 @@ guests:
 css:
   background-color: "#"
   text-shadow: 0 0 5px rgba(255, 255, 255, 1)
+author: Caro
 
 ---
 

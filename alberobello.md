@@ -1,9 +1,11 @@
 ---
 title: Alberobello
 date: 1412177152000
-km:
+km: 4862
 fbImage: IMG_8136
 backgroundImage: alberobello.jpg
+guests:
+  - Caro
 css:
   color: white
   text-shadow: 0 0 10px rgba(0, 0, 0, .5)
