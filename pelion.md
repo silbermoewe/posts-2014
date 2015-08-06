@@ -4,7 +4,7 @@ date: 1411488490000
 km: 4269
 fbImage: 1_IMG_7810
 backgroundImage: pelion.jpg
-author: "Lennart. Pics: Lennart & Timur."
+author: "Caro. Pics: Lennart & Timur."
 guests:
   - Caro
   - Lennart
