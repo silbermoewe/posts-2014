@@ -12,7 +12,7 @@ css:
 
 ---
 
-Wir kommen in Bari an und essen in einer Seitenstraße die beste *Focaccia* der Welt. Caro wird angepflaumt, weil sie sie *Pizza* nennt. Wir fahren weiter nach Alberobello, wo wir die charakteristisch geformten Häuser *Trulli* bestaunen. 
+Wir kommen in Bari an und essen in einer Seitenstraße die beste *Focaccia* der Welt. Caro wird angepflaumt, weil sie sie *Pizza* nennt. Wir fahren weiter nach Alberobello, wo wir die charakteristisch geformten Häuser *Trulli* bestaunen.
 
 ![](IMG_8136)
 ![](IMG_8139)
@@ -26,7 +26,7 @@ Bereits auf dem Weg nach Ostuni meint Timur, seinen kostbaren Sonnenbrillenclip 
 
 ---en---
 
-We arrive in Bari and eat possibly the best *Focaccia* on eath. Caro ordered us *Pizza Bianca* but they looked angry at her for calling their sacred *Focaccia* Pizza. It was so good though, that we took a second round. We drive to Alberobello and explore the characteristic houses called *Trulli*.
+We arrive in Bari and eat possibly the best *Focaccia* on earth. Caro ordered us *Pizza Bianca* but they looked angry at her for calling their sacred *Focaccia* Pizza. It was so good though, that we took a second round. We drive to Alberobello and explore the characteristic houses called *Trulli*.
 
 ![](IMG_8136)
 ![](IMG_8139)
