@@ -15,17 +15,16 @@ author: Caro
 
 ![](IMG_8238)
 
-Lecce ist (theoretisch) unsere erste Halt in Salento, der allerletzten Teil von Italiens Hacke. Unser Auto steht direkt draußen von den Stadtmauern, wo es die Altstadt und ganz viele (deutsche) Touristen gibt. Wir verbringen zwei volle Tagen in dieser kleinen Stadt, bevor uns das Wetter aus der Region verjagt und wir die Sonne an der westliche Küste suchen.
+Lecce soll (theoretisch) unser erster Halt in Salento werden, der allerletzten Teil von Italiens Hacke. Unser Auto steht direkt draußen vor den Stadtmauern, wo es die Altstadt und ganz viele (deutsche) Touristen gibt. Wir verbringen zwei volle Tagen in dieser kleinen Stadt, bevor uns das Wetter aus der Region verjagt und wir die Sonne an der westliche Küste suchen.
 
 ![](IMG_8219)
 
-In der Zeit schaffen wir es trotzdem, durch die Altstadt und ihre viele Kirchen zu laufen. Wir essen in einem bio-regionalen Bistro und einer riesigen örtlichen Pizzeria, setzen uns in Cafes, um dieses Blog zu aktualisieren (!), zwischen leckrem Kaffee und traditionelle gebackene Süßigkeiten.
+In der Zeit schaffen wir es trotzdem, durch die Altstadt und ihre viele Kirchen zu laufen. Wir essen in einem bio-regionalen Bistro und einer riesigen örtlichen Pizzeria, setzen uns in Cafes, um dieses Blog zu aktualisieren (!), zwischen leckerem Kaffee und traditionellen gebackenen Süßigkeiten.
 
 ![](IMG_8231)
 ![](IMG_8234)
 
-Um unser Glück mit der Sonne zu versuchen, fahren wir Richtung Maratea. Ich drücke uns die Daumen, dass wir es so genießen können, wie als ich da war, einigen Jahren.
-
+Um unser Glück mit der Sonne zu versuchen, fahren wir Richtung Maratea. Ich drücke uns die Daumen, dass wir es so genießen können wie ich vor einigen Jahren.
 
 ---en---
 
@@ -35,10 +34,9 @@ Lecce is (supposed to be) our first stop in Salento, the very last part of Italy
 
 ![](IMG_8219)
 
-In that time, however, we manage to have a nice walk through the centrum and its many churches, eat in both a regional organic bistro and huge local pizzeria, sit in cafes to update this blog (!) and study a bit, among good coffee and traditional baked sweeties.
+In that time, however, we manage to have a nice walk through the centrum and its many churches, eat in both a regional organic bistro and a huge local pizzeria, sit in cafes to update this blog (!) and study a bit, among good coffee and traditional baked sweeties.
 
 ![](IMG_8231)
 ![](IMG_8234)
 
-To try our luck, we drive to Maratea. I cross my finger that we can enjoy it like when I was there some years ago.
-
+To try our luck, we drive to Maratea. I cross my finger that we can enjoy it like I did when I was there some years ago.
