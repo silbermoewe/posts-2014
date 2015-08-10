@@ -12,30 +12,30 @@ css:
   text-shadow: "0 0 4px black"
 backgroundCss:
   background-position: center top
- 
+
 ---
 
 ![](51_Athen)
 
-Athen ist groß und rau. Wir nehmen uns eine Wohnung, in der wir alle bequem Platz finden, ein paar Stationen mit der Ubahn vom Zentrum entfernt und mit genügend Heiligtümern ausgestattet, dass wir sicher schlafen können. 
+Athen ist groß und rau. Wir nehmen uns eine Wohnung, in der wir alle bequem Platz finden, ein paar Stationen mit der Ubahn vom Zentrum entfernt und mit genügend Heiligtümern ausgestattet, dass wir sicher schlafen können.
 
 ![](IMG_8046)
 ![](IMG_8041)
 
-Wir laufen durch die Stadt auf der Suche nach Essen und essen vegetarisches mit esotherischen Sprüchen an der Wand im [Avocado](http://www.avocadoathens.com/). Wir trinken teures Bier in einer sehr schmalen Straße. Kolja folgt auf Twitter einem [athener Fahrradladen](http://48x17.com/en/), der für heute Abend ein Konzert angekündigt hat: [Ras G im Romantso](http://www.romantso.gr/show_event.php?id=257). Wir sind deutlich zu früh, die Kasse ist noch nicht offen, wir zahlen keinen Eintritt. Das gesparte investieren wir in Bier und Gin.
+Wir laufen durch die Stadt auf der Suche nach Essen und essen vegetarisches mit esotherischen Sprüchen an der Wand im [Avocado](http://www.avocadoathens.com/). Wir trinken teures Bier in einer sehr schmalen Straße. Kolja folgt auf Twitter einem [athener Fahrradladen](http://48x17.com/en/), der für heute Abend ein Konzert angekündigt hat: [Ras G im Romantso](http://www.romantso.gr/show_event.php?id=257). Wir sind deutlich zu früh, die Kasse ist noch nicht offen, wir zahlen keinen Eintritt. Das Gesparte investieren wir in Bier und Gin.
 
 ![](48_Konzert)
 
-Am Sonnabend erkunden wir die touristischen Höhepunkte, Akropolis und so, doch haben schwierigkeiten, das coole Athen zu finden. Abends gehen wir zu dem Fahrradladen, über den Kolja das Konzert gefunden hatte.
+Am Sonnabend erkunden wir die touristischen Höhepunkte, Akropolis und so, doch haben Schwierigkeiten, das coole Athen zu finden. Abends gehen wir zu dem Fahrradladen, über den Kolja das Konzert gefunden hatte.
 
 ![](46_Priester)
 ![](1_IMG_7985)
 ![](50_Akropolis_a)
 ![](52_Museum)
 
-Am Sonntagmorgen fliegt Lennart nach Haus. 
+Am Sonntagmorgen fliegt Lennart nach Haus.
 
-Nun endlich, an unserem Abreisetag, finden wir das coole Athen: Εξάρχεια (Exarcheia). Wir wollen Kaffee trinken, aber obwohl es eine Kaffeemaschine gibt sagt der Wirt, es gibt nur Schnapps und so trinken wir Schnapps. Ein paar hundert Meter weiter bekommen wir dann Kaffee. Gegen Abend finden wir eine wirklich schöne Taverna, die Ταβέρνα Εφήμερον. Die griechischen Gäste um uns herum übersetzen, was die urige Wirtin und der Wirt auf die Karte geschrieben haben und was sie sagen. Das Essen ist wirklich gut. 
+Nun endlich, an unserem Abreisetag, finden wir das coole Athen: Εξάρχεια (Exarcheia). Wir wollen Kaffee trinken, aber obwohl es eine Kaffeemaschine gibt sagt der Wirt, es gibt nur Schnapps und so trinken wir Schnapps. Ein paar hundert Meter weiter bekommen wir dann Kaffee. Gegen Abend finden wir eine wirklich schöne Taverna, die Ταβέρνα Εφήμερον. Die griechischen Gäste um uns herum übersetzen, was die urige Wirtin und der Wirt auf die Karte geschrieben haben und was sie sagen. Das Essen ist wirklich gut.
 
 ![](IMG_8021)
 ![](IMG_8023)
@@ -67,7 +67,7 @@ Saturday evening we explore the touristic highlights, Acropolis etc. but we have
 ![](50_Akropolis_a)
 ![](52_Museum)
 
-Sunday morning Lennart flies home. 
+Sunday morning Lennart flies home.
 
 Finally, at our last day in Athens we do find the *cool Athens*: Εξάρχεια (Exarcheia). We try to drink coffee but just get liqueur. In our second attempt we get served Coffee and in the evening we find a really nice Taverna: αβέρνα Εφήμερον. The old owners of the place have only a handwritten menu in Greek and do not speak any English but the other customers help us with the communication and we end up with really good food on our table.
 
