@@ -23,7 +23,7 @@ Caro ist zunächst nicht begeistert, die Brücke zu Fuß zu betreten doch Kolja 
 
 ---en---
 
-On our way from Athens to Patras, where we will take the ferry to Italy, we decide to make a short stop at Corinth, to admire this artificial canal and its breathtaking way.
+On our way from Athens to Patras, where we will take the ferry to Italy, we decide to make a short stop at Corinth, to admire this artificial canal and its breathtaking view.
 
 ![](IMG_8062)
 ![](IMG_8071)
